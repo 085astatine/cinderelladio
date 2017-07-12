@@ -3,7 +3,6 @@ main:
   title: モバＰ「お前達ーラジオ番組のレギュラー決まったぞー」
   url: http://www.pixiv.net/novel/show.php?id=4867366
   guest:
-  - なし
 - number: 2
   title: 杏「え、続けるの？」
   url: http://www.pixiv.net/novel/show.php?id=4871207
@@ -65,17 +64,11 @@ main:
   url: http://www.pixiv.net/novel/show.php?id=4926667
   guest:
   - 姫川友紀
-  - （村上巴）
 - number: 14
   title: 杏「さぁ、ゲームの始まりだ！」
   url: http://www.pixiv.net/novel/show.php?id=4930478
   guest:
   - 安部菜々
-  - （姫川友紀）
-  - （赤城みりあ）
-  - （龍崎薫）
-  - （福山舞）
-  - （佐々木千枝）
 - number: 15
   title: 輝子「黒夢」
   url: http://www.pixiv.net/novel/show.php?id=4934308
@@ -105,7 +98,6 @@ main:
   title: 杏「総集編」
   url: http://www.pixiv.net/novel/show.php?id=4960390
   guest:
-  - なし
 - number: 21
   title: 輝子「Rの女...？」
   url: http://www.pixiv.net/novel/show.php?id=4964793
@@ -293,10 +285,6 @@ main:
   url: http://www.pixiv.net/novel/show.php?id=5163734
   guest:
   - 安部菜々
-  - （姫川友紀）
-  - （棟方愛海）
-  - （脇山珠美）
-  - （森久保乃々）
 - number: 56
   title: 杏「杏・輝子・小梅のシンデレラジオ 第56回」
   url: http://www.pixiv.net/novel/show.php?id=5173022
@@ -443,7 +431,8 @@ main:
   title: 杏「杏・輝子・小梅のシンデレラジオ 第84回」
   url: http://www.pixiv.net/novel/show.php?id=5330153
   guest:
-  - 古賀小春+ヒョウくん
+  - 古賀小春
+  - ヒョウくん
 - number: 85
   title: 杏「杏・輝子・小梅のシンデレラジオ 第85回」
   url: http://www.pixiv.net/novel/show.php?id=5330191
@@ -607,7 +596,8 @@ main:
 - number: 114
   title: 杏「杏・輝子・小梅のシンデレラジオ 第114回」
   url: http://www.pixiv.net/novel/show.php?id=5468251
-  guest: []
+  guest:
+  - 安部菜々
 - number: 115
   title: 杏「杏・輝子・小梅のシンデレラジオ 第115回」
   url: http://www.pixiv.net/novel/show.php?id=5471837
@@ -722,7 +712,8 @@ main:
   title: 杏「杏・輝子・小梅のシンデレラジオ 第137回」
   url: http://www.pixiv.net/novel/show.php?id=5814390
   guest:
-  - 太田優+アッキー
+  - 太田優
+  - アッキー
 - number: 138
   title: 杏「杏・輝子・小梅のシンデレラジオ 第138回」
   url: http://www.pixiv.net/novel/show.php?id=5841435
@@ -821,7 +812,8 @@ main:
   title: 杏「杏・輝子・小梅のシンデレラジオ 第156回」
   url: http://www.pixiv.net/novel/show.php?id=6296314
   guest:
-  - 難波笑美上田鈴帆
+  - 難波笑美
+  - 上田鈴帆
 - number: 157
   title: 杏「杏・輝子・小梅のシンデレラジオ 第157回」
   url: http://www.pixiv.net/novel/show.php?id=6327509
@@ -851,7 +843,8 @@ main:
   title: 杏「杏・輝子・小梅のシンデレラジオ 第162回」
   url: http://www.pixiv.net/novel/show.php?id=6484785
   guest:
-  - 並木芽衣子伊集院惠
+  - 並木芽衣子
+  - 伊集院惠
 - number: 163
   title: 杏「杏・輝子・小梅のシンデレラジオ 第163回」
   url: http://www.pixiv.net/novel/show.php?id=6513157
@@ -866,22 +859,25 @@ main:
   title: 杏「杏・輝子・小梅のシンデレラジオ 第165回」
   url: http://www.pixiv.net/novel/show.php?id=6581578
   guest:
-  - キャシー・グラハム(全アイドル出演達成)
+  - キャシー・グラハム
 - number: 166
   title: 杏「杏・輝子・小梅のシンデレラジオ 第166回」
   url: http://www.pixiv.net/novel/show.php?id=6609308
   guest:
-  - 早坂美玲森久保乃々
+  - 早坂美玲
+  - 森久保乃々
 - number: 167
   title: 杏「杏・輝子・小梅のシンデレラジオ 第167回」
   url: http://www.pixiv.net/novel/show.php?id=6641741
   guest:
-  - 三好紗南市原仁奈
+  - 三好紗南
+  - 市原仁奈
 - number: 168
   title: 杏「杏・輝子・小梅のシンデレラジオ 第168回」
   url: http://www.pixiv.net/novel/show.php?id=6670040
   guest:
-  - 輿水幸子遊佐こずえ
+  - 輿水幸子
+  - 遊佐こずえ
 - number: 169
   title: 杏「杏・輝子・小梅のシンデレラジオ 第169回」
   url: http://www.pixiv.net/novel/show.php?id=6700737
@@ -889,9 +885,14 @@ main:
   - 千川ちひろ
 - number: 170
   title: 杏「杏・輝子・小梅のシンデレラジオ 第170回」
-  url: null
+  url: http://www.pixiv.net/novel/show.php?id=6731341
   guest:
-  - ''
+  - 安部菜々
+- number: 171
+  title: 杏「杏・輝子・小梅のシンデレラジオ 第171回」
+  url: http://www.pixiv.net/novel/show.php?id=7300513
+  guest:
+  - 浅利七海
 side:
 - title: 杏「とある夏の日」
   url: http://www.pixiv.net/novel/show.php?id=4920302
@@ -935,7 +936,7 @@ side:
   url: http://www.pixiv.net/novel/show.php?id=5210743
 - title: 輝子「ジメジメ雨の日に」
   url: http://www.pixiv.net/novel/show.php?id=5218092
-- title: 杏「とある夏の日 その2」（同人誌『ボクの王子様Ⅰ』購入特典）
+- title: 杏「とある夏の日 その2」
   url: http://www.pixiv.net/novel/show.php?id=5218092
 - title: 光「OEN！」杏「ODEN？」
   url: http://www.pixiv.net/novel/show.php?id=5227485
@@ -943,19 +944,19 @@ side:
   url: http://www.pixiv.net/novel/show.php?id=5243584
 - title: 杏「メイドカフェオオカミ」
   url: http://www.pixiv.net/novel/show.php?id=5272521
-- title: 杏「夏の終わりに」（同人誌『ボクの王子様Ⅱ』購入特典）
+- title: 杏「夏の終わりに」
   url: http://www.pixiv.net/novel/show.php?id=5272521
 - title: 杏「おねむトリオの休日」
   url: http://www.pixiv.net/novel/show.php?id=5297968
 - title: 小梅「スリーピングナイトメア」
   url: http://www.pixiv.net/novel/show.php?id=5305184
-- title: 杏「とある秋の日」（同人誌『ボクの王子様Ⅲ』購入特典）
+- title: 杏「とある秋の日」
   url: http://www.pixiv.net/novel/show.php?id=5305184
 - title: 杏「おねむトリオとこたつ」
   url: http://www.pixiv.net/novel/show.php?id=5354378
-- title: 杏「とある冬の日 その2」（同人誌『ボクの王子様Ⅳ』購入特典）
+- title: 杏「とある冬の日 その2」
   url: http://www.pixiv.net/novel/show.php?id=5354378
-- title: 杏「オマケということで適当にだらだら喋っちゃおう的な」（C87会場限定ペーパー）
+- title: 杏「オマケということで適当にだらだら喋っちゃおう的な」
   url: http://www.pixiv.net/novel/show.php?id=5354378
 - title: 杏「だらだらガボゴボ落花生」
   url: http://www.pixiv.net/novel/show.php?id=5391126
@@ -971,6 +972,16 @@ side:
   url: http://www.pixiv.net/novel/show.php?id=5534579
 - title: 杏「だらだらガボゴボ落花生と母の日」
   url: http://www.pixiv.net/novel/show.php?id=5534579
+- title: 杏「幸子が離れない」
+  url: http://www.pixiv.net/novel/show.php?id=6853960
+- title: 都「正解はひとつではありません！」
+  url: http://www.pixiv.net/novel/show.php?id=6885193
+- title: 杏「おねむトリオと回るSUSHI」
+  url: http://www.pixiv.net/novel/show.php?id=6984508
+- title: 紗南「みよしんち LEVEL1」
+  url: http://www.pixiv.net/novel/show.php?id=6819129
+- title: 紗南「みよしんち LEVEL2」
+  url: http://www.pixiv.net/novel/show.php?id=7448977
 - title: 杏「双葉杏のだらだらグルメ」
   url: http://www.pixiv.net/novel/show.php?id=5243612
 - title: 杏「あんこずのだらだらふわぁず 第1回」
@@ -983,4 +994,6 @@ side:
   url: http://www.pixiv.net/novel/show.php?id=5504687
 - title: 杏「あんこずのだらだらふわぁず 第5回」
   url: http://www.pixiv.net/novel/show.php?id=6759227
+- title: 杏「あんこずのだらだらふわぁず 第6回」
+  url: http://www.pixiv.net/novel/show.php?id=7260953
 
